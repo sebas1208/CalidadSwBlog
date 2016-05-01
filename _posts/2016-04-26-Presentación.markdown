@@ -4,7 +4,7 @@ title:  "Presentación!"
 date:   2016-04-26 10:38:06 -0500
 categories: calidad presentación
 ---
-Este blog se creo con el objetivo de subir contenido para la materia SIC-734 `Calidad de Software` en la Escuela Politecnica Nacional.
+Este blog se creo con el objetivo de subir contenido para la materia SIC-734 `Calidad de Software` en la Escuela Politécnica Nacional.
 
 Nuestro equipo se llama: **Q-order**, y esta compuesto por:
 
@@ -15,7 +15,7 @@ Nuestro equipo se llama: **Q-order**, y esta compuesto por:
 Los integrantes de nuestro equipo somos:
 
 * Sebastián Avalos
-* Nathaly Cumbicos [Cordinadora]
+* Nathaly Cumbicos [Coordinadora]
 * Deidamia Quishpe
 
 Nuestro logo es el siguiente:

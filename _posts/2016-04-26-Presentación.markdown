@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Bienvenido al blog!"
+title:  "Presentación!"
 date:   2016-04-26 10:38:06 -0500
-categories: calidad introduccion
+categories: calidad presentación
 ---
 Este blog se creo con el objetivo de subir contenido para la materia SIC-734 `Calidad de Software` en la Escuela Politecnica Nacional.
 

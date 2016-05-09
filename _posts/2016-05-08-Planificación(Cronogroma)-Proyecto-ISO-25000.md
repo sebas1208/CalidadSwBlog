@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Planificacion(Cronograma) Proyecto ISO 25000"
+title:  "Planificación(Cronograma) Proyecto ISO 25000"
 date:   2016-05-08 10:38:06 -0500
 categories: calidad proyecto
 ---
@@ -13,5 +13,7 @@ El cronograma para el proyecto este publicado en la aplicación hoja de cálculo
 
 Imagenes del Cronograma:
 ![Logo]({{ "/images/cronograma_01.png" | prepend: site.baseurl | prepend: site.github.url }} "Logo")
+
 ![Logo]({{ "/images/cronograma_02.png" | prepend: site.baseurl | prepend: site.github.url }} "Logo")
+
 ![Logo]({{ "/images/cronograma_03.png" | prepend: site.baseurl | prepend: site.github.url }} "Logo")

@@ -10,7 +10,7 @@ categories: calidad proyecto
 
 El día miércoles 18 de Mayo nos reunimos para tener una conversacion de las características y subcaracterísticas de la norma ISO 25000 y discutir las funcionalidades que deberiamso evaluar en el proyecto.  Definimos algunas características que se van a evaluar pero no los completamos en su totalidad.
 
-# Reunión 2
+# Reunión 4
 # Fecha: Sábado 21 de Mayo de 2016
 
 El día sabado 21 de Mayo no reunimos para tomar algunas medidas de la calidad externa que definimos anteriormente.

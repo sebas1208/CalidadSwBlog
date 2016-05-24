@@ -13,4 +13,4 @@ El día miércoles 18 de Mayo nos reunimos para tener una conversacion de las ca
 # Reunión 4
 # Fecha: Sábado 21 de Mayo de 2016
 
-El día sabado 21 de Mayo no reunimos para tomar algunas medidas de la calidad externa que definimos anteriormente.
+El día sábado 21 de Mayo no reunimos para tomar algunas medidas de la calidad externa que definimos anteriormente.
